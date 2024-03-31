@@ -11,3 +11,113 @@ public class LabCycle10Application {
 	}
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
+//minikube start --driver=docker
+//minikube status
+//add maven install
+//eval $(minikube docker-env)
+//sudo docker build -t myprg10 .
+//kubectl create -f kuber.yml
+//minikube services myapp-service
+//post data
+//minikube dashboard
